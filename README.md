@@ -1,4 +1,3 @@
-**[antfu.me](https://antfu.me)**
 
 my personal website
 
